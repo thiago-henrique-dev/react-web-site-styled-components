@@ -24,6 +24,4 @@ export  const Container = styled.div`
     }
 `;
 
-
-
 export default GlobalStyle
